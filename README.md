@@ -1,4 +1,4 @@
-# Hyde
+# Hyde - Perry version
 
 Hyde is a brazen two-column [hugo](http://hugo.spf13.com) theme based on the [Jekyll](http://jekyllrb.com) theme of the same name.
 It pairs a prominent sidebar with uncomplicated content.
